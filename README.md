@@ -139,7 +139,7 @@ boolean disconnectedSuccessfully = mWiseFy.disconnectFromCurrentNetwork();
 To enable wifi:
 
 ```java
-boolean wifiEnabled = mWiseFy.enableWiFi();
+boolean wifiEnabled = mWiseFy.enableWifi();
 ```
 
 To get current network:
